@@ -1,0 +1,14 @@
+a{
+    background-color:yellow;
+    color: red;
+    text-decoration:none;
+}
+span{
+    background-color:#0000FF;
+}
+.hashtag_wrapper {
+    margin: 4px;
+    padding:5px;
+    border:1px solid gray;
+    border-radius: 4px;
+}
